@@ -1,0 +1,12 @@
+Django
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+mssql-django=1.0rc1
+pillow
+python-decouple
+python-dotenv
+requests
+whitenoise
+
